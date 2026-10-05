@@ -43,6 +43,8 @@ npm run build
 
 SPA routing fallback is handled by `public/_redirects`.
 
+To use `tinaneureka.com`, add it as a custom domain in the Cloudflare Pages project's **Custom domains** settings. The domain must be active in the Cloudflare account; follow the Pages prompt to create or verify its DNS record. DNS and domain ownership cannot be configured from this repository.
+
 ## Routes
 
 - `/`
